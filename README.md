@@ -1,4 +1,4 @@
-# SimpleShell
+# Simple-Linux-Shell
 
 ## Overview
 
